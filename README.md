@@ -8,3 +8,4 @@
 ### Algorithm study in Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183198)](https://solved.ac/20183198/)
+
